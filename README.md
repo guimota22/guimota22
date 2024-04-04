@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Guilherme Mota 😁
+## Oi! Eu me chamo Guilherme Mota 😁
 
  <div>
    <a href="https://github.com/guimota22">
